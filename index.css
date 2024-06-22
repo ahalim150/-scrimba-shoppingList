@@ -69,3 +69,7 @@ ul li:hover {
     background-color: #FFECC7;
     cursor: pointer;
 }
+
+h3{
+    text-align: center;
+}

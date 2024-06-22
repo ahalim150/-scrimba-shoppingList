@@ -1,1 +1,2 @@
-# -scrimba-shoppingList
+npm i
+npm start
